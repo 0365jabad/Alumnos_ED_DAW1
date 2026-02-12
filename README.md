@@ -30,11 +30,10 @@ Sigue las siguientes normas para que funcione correctamente.
 ## Estructura del proyecto
 
 portfolio-clase-2026/
-│
-├── index.html
-├── style.css
-└── alumnos/
-    └── tuNombre-tuApellido.html
+    - index.html
+    - style.css
+    - alumnos/
+           - tuNombre-tuApellido.html
 
 ---
 
